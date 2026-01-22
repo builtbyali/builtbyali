@@ -127,15 +127,6 @@ Building scalable web applications and developer tools. Currently working on blo
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=builtbyali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtbyali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-muhammadali24%40proton.me-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:muhammadali24@proton.me)
