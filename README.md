@@ -111,6 +111,8 @@ Building scalable web applications and developer tools. Currently working on blo
 - Real-time battle simulation
 - Cryptocurrency payment integration
 
+[[degenduel.net](https://degenduel.net/)]
+
 ---
 
 ### Realm Runner
