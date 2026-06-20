@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Ali
 
-**Full-Stack Developer** specializing in TypeScript, React, and Node.js with Web3 experience.
+**MERN-Stack Developer** specializing in TypeScript, React, and Node.js with Web3 experience.
 
 Building scalable web applications and developer tools. Currently working on blockchain gaming infrastructure at Ashtar Global Solutions.
 
@@ -8,7 +8,7 @@ Building scalable web applications and developer tools. Currently working on blo
 
 ## About Me
 
-- 2.5+ years of professional software development experience
+- 3+ years of professional software development experience
 - Expert in TypeScript/JavaScript ecosystem
 - Passionate about developer tools, APIs, and Web3
 - Based in Karachi, Pakistan | Open to remote opportunities
